@@ -7,7 +7,7 @@
 
 
 ## Overview
-A simple Fastify.js server, running on Localhost. It supports GET,POST,UPDATE and DELETE requests over HTTPS 1.1.
+A simple Fastify.js CRUD API requests over HTTPS 1.1.
 
 ## Set up
 npm install fastify 
